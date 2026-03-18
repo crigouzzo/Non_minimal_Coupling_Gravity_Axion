@@ -13,12 +13,6 @@ This is a companion repository to the paper [2512.16754](https://arxiv.org/abs/2
 - `Palatini.py`: Generates parameter space plots for the Palatini formulation
 - `Starobinsky.py`: Generates parameter space plots for the Starobinsky scenario
 
-## Usage
-Run:
-```bash
-python Palatini.py
-python Starobinsky.py
-
 ## Authors
 * Claire Rigouzzo
 * Sebastian Zell
